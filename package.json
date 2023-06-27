@@ -2,10 +2,10 @@
   "name": "vue-business-hours",
   "description": "Vue component for selecting business hours.",
   "version": "1.4.1",
-  "author": "sbarry50",
+  "author": "d-debrock",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sbarry50/vue-business-hours.git"
+    "url": "https://github.com/d-debrock/vue-business-hours.git"
   },
   "license": "MIT",
   "private": false,
@@ -45,7 +45,6 @@
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.2.3",
     "minimist": "^1.2.0",
-    "node-sass": "^4.13.0",
     "rollup": "^1.29.0",
     "rollup-plugin-buble": "^0.19.8",
     "rollup-plugin-commonjs": "^9.2.1",
@@ -55,7 +54,6 @@
     "rollup-plugin-replace": "^2.1.0",
     "rollup-plugin-terser": "^4.0.4",
     "rollup-plugin-vue": "^4.7.2",
-    "sass-loader": "^7.3.1",
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.11"
   },

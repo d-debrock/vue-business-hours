@@ -304,7 +304,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 .flex-table {
   display: flex;
   flex-flow: row nowrap;
@@ -318,8 +318,8 @@ export default {
   width: 20%;
 }
 
-.flex-row /deep/ input,
-.flex-row /deep/ select {
+.flex-row input,
+.flex-row select {
   margin: 1px;
   padding: 3px 5px;
   width: 110px;
