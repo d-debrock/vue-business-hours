@@ -54,7 +54,7 @@
     "rollup-plugin-replace": "^2.1.0",
     "rollup-plugin-terser": "^4.0.4",
     "rollup-plugin-vue": "^4.7.2",
-    "vue": "^2.6.11",
+    "vue": "^3.3.4",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
